@@ -1,0 +1,74 @@
+::-webkit-scrollbar{
+	display: none;
+}
+.login-wallpaper-dark{ 
+    background-image: url('../images/wallpaper/login/dark.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+}
+.login-wallpaper-light{ 
+    background-image: url('../images/wallpaper/login/light.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+}
+.login-wallpaper-normal{ 
+    background-image: url('../images/wallpaper/login/normal.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%; 
+}
+.authentication .card-plain{
+	background-color: white !important;
+	box-shadow: none !important;
+}
+.page-header .container .content-center,.authentication .card-plain.card-plain .form-control{
+	color: #636b6f !important; 
+}
+.authentication .card-plain.card-plain .form-control{ 
+	border-bottom:0px solid #eeeeef !important;
+	border-radius: 0px !important;
+}
+.authentication .card-plain .input-group, .authentication .card-plain .form-group{
+	border-bottom:1px solid #eeeeef !important; 
+}
+.page-loader-wrapper{
+    opacity: 0.8 !important; 
+    background-color: black !important;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+.sidebar{
+    background-color: white;
+}
+body{
+    background-color:#ecebeb;
+}
+.navbar{
+    background-color:#13aabb;
+}
+.float-right i{
+    color: white !important;
+}
+.dropdown .dropdown-menu{
+    margin-left: -260% !important;  
+}
+.dropdown .dropdown-menu i{
+    color: #333 !important;
+}
+.sidebar .list a i{
+    color: #333 !important;
+} 
+.sidebar .list .active{
+    color: #49c5b6 !important;
+}
+.sidebar .list .active span{
+    color: #49c5b6 !important;
+}
+.sidebar .list .active i{
+    color: #49c5b6 !important;
+}
+
